@@ -1,3 +1,4 @@
+-- I have used mysql workbench you can use various rdbms but you need to change queries format.
 -- Before practicing you need to create Database and Tables
 --Here I have created sample database and tables. you can either use this or you can create your new table.
 
